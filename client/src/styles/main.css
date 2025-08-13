@@ -1,0 +1,13 @@
+.container-main {
+    margin-top: 50px;
+}
+
+.heading {
+    font-size: 3em;
+}
+
+.form {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
